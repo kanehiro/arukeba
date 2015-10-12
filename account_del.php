@@ -5,7 +5,7 @@ require_once(DIR_CLASSES ."app_class.php");
 require_once("sschk.php");
 
 class account_del_class extends app_class{
-	private $account;
+	private $account;   // 入れただけ
 	private $user_name;
 
 	function __construct(){
